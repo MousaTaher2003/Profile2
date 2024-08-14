@@ -1,0 +1,26 @@
+header{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bgclass1{
+    background-color:silver
+}
+
+#imgMousa{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+#hsec2{   
+    color:teal;
+}
+#imgs{
+    width: 500px;
+    height: 300px;
+    border-radius: 15%;
+}
+.section1{
+    background-color: rgb(170, 238, 238);
+}
